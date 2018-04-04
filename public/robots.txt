@@ -1,0 +1,9 @@
+User-Agent: *
+
+Disallow: 
+
+
+Disallow: send-mail.php
+
+
+

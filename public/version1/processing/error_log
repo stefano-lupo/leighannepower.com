@@ -1,0 +1,22 @@
+[01-Aug-2016 14:48:53 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:49:43 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:49:45 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:49:45 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:50:20 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:50:21 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:50:22 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:50:49 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:51:02 Europe/Paris] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home2/leighanne/public_html/processing/connect.php on line 15
+[01-Aug-2016 14:51:42 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 22
+[01-Aug-2016 14:52:34 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:52:35 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 14:52:45 Europe/Paris] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/leighanne/public_html/processing/connect.php on line 20
+[01-Aug-2016 15:16:36 Europe/Paris] PHP Warning:  parse_ini_file(../config.ini): failed to open stream: No such file or directory in /home2/leighanne/public_html/processing/connect.php on line 17
+[01-Aug-2016 15:16:36 Europe/Paris] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home2/leighanne/public_html/processing/connect.php on line 18
+[01-Aug-2016 15:47:26 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home2/leighanne/public_html/processing/load-portfolio.php on line 8
+[01-Aug-2016 16:43:27 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home2/leighanne/public_html/processing/load-portfolio.php on line 22
+[01-Aug-2016 16:44:23 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home2/leighanne/public_html/processing/load-portfolio.php on line 22
+[01-Aug-2016 18:22:19 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home2/leighanne/public_html/processing/load-portfolio.php on line 21
+[02-Aug-2016 23:12:29 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home2/leighanne/public_html/processing/load-portfolio.php on line 21
+[02-Aug-2016 23:12:37 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home2/leighanne/public_html/processing/load-portfolio.php on line 21
+[09-Nov-2016 04:34:17 Europe/Paris] PHP Warning:  Invalid argument supplied for foreach() in /home2/leighanne/public_html/processing/load-portfolio.php on line 21
